@@ -55,7 +55,7 @@ namespace Business.Services
 
             var novaOcorrencia = new Ocorrencia(dto.TipoOcorrencia, dto.HoraOcorrencia);
 
-            if (ocorrencias.Count == 1)
+            if (ocorrencias.Count >= 1)
             {
                 novaOcorrencia.MarcarComoFinalizadora();
                 pedido.Finalizar(novaOcorrencia.TipoOcorrencia == ETipoOcorrencia.EntregueComSucesso);

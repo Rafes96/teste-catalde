@@ -10,3 +10,4 @@ C:\Users\admin\source\repos\PedidosXOcorrenciaCatalde\Domain\obj\Debug\net9.0\re
 C:\Users\admin\source\repos\PedidosXOcorrenciaCatalde\Domain\obj\Debug\net9.0\Business.pdb
 C:\Users\admin\source\repos\PedidosXOcorrenciaCatalde\Domain\obj\Debug\net9.0\ref\Business.dll
 C:\Users\admin\source\repos\PedidosXOcorrenciaCatalde\Domain\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\PedidosXOcorrenciaCatalde\Domain\obj\Debug\net9.0\Business.sourcelink.json

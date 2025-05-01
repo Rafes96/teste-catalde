@@ -13,3 +13,4 @@ C:\Users\admin\source\repos\PedidosXOcorrenciaCatalde\Data\obj\Debug\net9.0\Data
 C:\Users\admin\source\repos\PedidosXOcorrenciaCatalde\Data\bin\Debug\net9.0\Business.dll
 C:\Users\admin\source\repos\PedidosXOcorrenciaCatalde\Data\bin\Debug\net9.0\Business.pdb
 C:\Users\admin\source\repos\PedidosXOcorrenciaCatalde\Data\obj\Debug\net9.0\Data.csproj.Up2Date
+C:\Users\admin\source\repos\PedidosXOcorrenciaCatalde\Data\obj\Debug\net9.0\Data.sourcelink.json

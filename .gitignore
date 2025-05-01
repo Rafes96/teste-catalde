@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build e binários
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.sourcelink.json
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Configs locais
+*.local.json
+*.FileListAbsolute.txt
+*.AssemblyInfoInputs.cache
+
+# Rider / JetBrains
+.idea/
+
+# Testes e cobertura
+*.coverage
+*.coveragexml
+*.codecoverage
+TestResult*/ 
+
+# Sistema
+Thumbs.db
+.DS_Store

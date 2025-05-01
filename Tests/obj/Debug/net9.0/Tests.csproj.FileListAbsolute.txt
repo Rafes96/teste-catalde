@@ -107,3 +107,4 @@ C:\Users\admin\source\repos\PedidosXOcorrenciaCatalde\Tests\obj\Debug\net9.0\ref
 C:\Users\admin\source\repos\PedidosXOcorrenciaCatalde\Tests\obj\Debug\net9.0\Tests.pdb
 C:\Users\admin\source\repos\PedidosXOcorrenciaCatalde\Tests\obj\Debug\net9.0\Tests.genruntimeconfig.cache
 C:\Users\admin\source\repos\PedidosXOcorrenciaCatalde\Tests\obj\Debug\net9.0\ref\Tests.dll
+C:\Users\admin\source\repos\PedidosXOcorrenciaCatalde\Tests\obj\Debug\net9.0\Tests.sourcelink.json
