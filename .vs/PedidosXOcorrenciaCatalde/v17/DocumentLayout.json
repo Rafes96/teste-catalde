@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\PedidosXOcorrenciaCatalde\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88B9A1E2-B84A-42B8-A5AB-298297860572}|PedidosXOcorrenciaCatalde\\Api.csproj|c:\\users\\admin\\source\\repos\\pedidosxocorrenciacatalde\\pedidosxocorrenciacatalde\\v1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B9A1E2-B84A-42B8-A5AB-298297860572}|PedidosXOcorrenciaCatalde\\Api.csproj|solutionrelative:pedidosxocorrenciacatalde\\v1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B9A1E2-B84A-42B8-A5AB-298297860572}|PedidosXOcorrenciaCatalde\\Api.csproj|c:\\users\\admin\\source\\repos\\pedidosxocorrenciacatalde\\pedidosxocorrenciacatalde\\v1\\controllers\\ocorrenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B9A1E2-B84A-42B8-A5AB-298297860572}|PedidosXOcorrenciaCatalde\\Api.csproj|solutionrelative:pedidosxocorrenciacatalde\\v1\\controllers\\ocorrenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B9A1E2-B84A-42B8-A5AB-298297860572}|PedidosXOcorrenciaCatalde\\Api.csproj|c:\\users\\admin\\source\\repos\\pedidosxocorrenciacatalde\\pedidosxocorrenciacatalde\\v1\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B9A1E2-B84A-42B8-A5AB-298297860572}|PedidosXOcorrenciaCatalde\\Api.csproj|solutionrelative:pedidosxocorrenciacatalde\\v1\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\PedidosXOcorrenciaCatalde\\PedidosXOcorrenciaCatalde\\v1\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "PedidosXOcorrenciaCatalde\\v1\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\PedidosXOcorrenciaCatalde\\PedidosXOcorrenciaCatalde\\v1\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "PedidosXOcorrenciaCatalde\\v1\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:39:19.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\PedidosXOcorrenciaCatalde\\PedidosXOcorrenciaCatalde\\v1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PedidosXOcorrenciaCatalde\\v1\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\PedidosXOcorrenciaCatalde\\PedidosXOcorrenciaCatalde\\v1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PedidosXOcorrenciaCatalde\\v1\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T20:02:01.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OcorrenciaController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\PedidosXOcorrenciaCatalde\\PedidosXOcorrenciaCatalde\\v1\\Controllers\\OcorrenciaController.cs",
+              "RelativeDocumentMoniker": "PedidosXOcorrenciaCatalde\\v1\\Controllers\\OcorrenciaController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\PedidosXOcorrenciaCatalde\\PedidosXOcorrenciaCatalde\\v1\\Controllers\\OcorrenciaController.cs",
+              "RelativeToolTip": "PedidosXOcorrenciaCatalde\\v1\\Controllers\\OcorrenciaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T19:33:15.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
